@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+F:\Cidia Public FiveM Cheat\Cidia Public FiveM\Cidia Public FiveM\CPed.h(11,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+  Cidia Public FiveM.vcxproj -> F:\Cidia Public FiveM Cheat\Cidia Public FiveM\x64\Debug\Cidia Pulic.dll
